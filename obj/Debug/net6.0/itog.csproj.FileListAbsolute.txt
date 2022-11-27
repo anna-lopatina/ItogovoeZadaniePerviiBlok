@@ -1,0 +1,15 @@
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/bin/Debug/net6.0/itog
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/bin/Debug/net6.0/itog.deps.json
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/bin/Debug/net6.0/itog.runtimeconfig.json
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/bin/Debug/net6.0/itog.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/bin/Debug/net6.0/itog.pdb
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/itog.csproj.AssemblyReference.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/itog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/itog.AssemblyInfoInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/itog.AssemblyInfo.cs
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/itog.csproj.CoreCompileInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/itog.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/refint/itog.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/itog.pdb
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/itog.genruntimeconfig.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/itog/obj/Debug/net6.0/ref/itog.dll
